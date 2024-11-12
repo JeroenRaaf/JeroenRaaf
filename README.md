@@ -21,7 +21,7 @@ I have experience with:
 ### 🌐 Connect with Me
 Let's connect! Feel free to reach out for collaboration, project discussions, or just to say hi.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeroen-ravensbergen-5063332a3/)  
 📌 Portfolio - Coming Soon!
 
 ---
