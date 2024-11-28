@@ -13,7 +13,7 @@ I have experience with:
 - **Languages**: TypeScript, JavaScript, Python, SQL, C#
 - **Frontend Frameworks**: React, Next.js, Svelte, SvelteKit
 - **Backend & Server-Side**: Node.js, ElysiaJS, .NET
-- **Databases**: PostgreSQL, SQLite, MySQL
+- **Databases**: PostgreSQL, SQLite, MySQL, MSSQL
 - **Other Tools**: Git, Docker, REST APIs, Azure DevOps
 
 ---
